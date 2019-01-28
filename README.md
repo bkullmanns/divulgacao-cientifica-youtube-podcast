@@ -65,7 +65,7 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
   - _Assuntos: `História`_
   - [Podcast](http://temacast.com.br/wp/podcasts/) 
 - Filosofia Pop
-  - _Assuntos: `Filosofia`
+  - _Assuntos: `Filosofia`_
   - [Podcast](http://filosofiapop.com.br/category/podcast/) 
 
 ## Educação e Pedagogia:
