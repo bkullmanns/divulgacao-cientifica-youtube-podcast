@@ -5,40 +5,68 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 
 ## Diversos assuntos:
 
-- [Naruhodo](https://www.b9.com.br/podcasts/naruhodo/)
-
+- Naruhodo
+  - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
+- Dragões de Garagem
+  - [Podcast](http://dragoesdegaragem.com/podcast/)
 
 ## Pensamento Científico:
-- [Papo Cético](https://www.mitografias.com.br/category/podcast/papo-cetico/)
+- Papo Cético 
+  - [Podcast](https://www.mitografias.com.br/category/podcast/papo-cetico/)
 
 ## Tecnologia:
-- [BlueSoft Podcast](https://labs.bluesoft.com.br/tag/podcast/)
-- [Hack'n'Cast](http://hackncast.org/) _Assuntos: `Segurança Digital`_ 
+- BlueSoft Podcast
+  - [Podcast](https://labs.bluesoft.com.br/tag/podcast/)
+- Hack'n'Cast 
+  - _Assuntos: `Segurança Digital`_
+  - [Podcast](http://hackncast.org/) 
 
 ## Ciências Exatas:
-
-- [Volt Ampere Podcast](http://hexatronic.com.br/category/podcast/) _Assuntos: `Física`_
-- [FísicaCast](https://anchor.fm/fisicast) _Assuntos: `Física`_
+- Volt Ampere Podcast
+    - _Assuntos: `Física`_
+    - [Podcast](http://hexatronic.com.br/category/podcast/) 
+- FísicaCast 
+    -  _Assuntos: `Física`_
+    - [Podcast](https://anchor.fm/fisicast)
 
 ## Ciências da Saúde e Medicina:
-
-- [Medicina em Debate](http://medicinaemdebate.com.br/)
+- Medicina em Debate 
+  - [Podcast](http://medicinaemdebate.com.br/)
+- Fisio na Pauta 
+  - _Assuntos: `Fisioterapia`_ 
+  - [Podcast](http://www.fisionapauta.com.br/podcasts/)
+- Tribo Forte: 
+  - _Assuntos: `Nutrição e tratamento de doenças`_
+   - [Podcast](http://triboforte.com.br/podcasts/) 
+- Senhor Tanquinho 
+   - _Assuntos: `Nutrição`_
+   - [Podcast](https://www.senhortanquinho.com/category/podcast/)
 
 ## Direito e Política
-
-- [Viracasacas](https://viracasacas.com/)
+- Viracasacas
+  - [Podcast](https://viracasacas.com/)
 
 
 ## Ciências Biológicas: 
 
-- [O Nicho](https://onichopodcast.wordpress.com/) _Assuntos: `Biologia`_
-- [Farmacast](http://farmacast.com.br/category/podcast/) _Assuntos: `Farmácia`_ 
+- O Nicho
+  - _Assuntos: `Biologia`_
+  - [Podcast](https://onichopodcast.wordpress.com/) 
+- Farmacast
+  - _Assuntos: `Farmácia`_
+  - [Podcast](http://farmacast.com.br/category/podcast/) 
 
 ## Ciências Humanas:
 
-- [Passadorama](https://passadorama.com/) _Assuntos: `História`_
-- [TemaCast](http://temacast.com.br/wp/podcasts/) _Assuntos: `História`_
-- [Filosofia Pop](http://filosofiapop.com.br/category/podcast/) _Assuntos: `Filosofia`
+- Passadorama
+  - _Assuntos: `História`_
+  - [Podcast](https://passadorama.com/) 
+- TemaCast
+  - _Assuntos: `História`_
+  - [Podcast](http://temacast.com.br/wp/podcasts/) 
+- Filosofia Pop
+  - _Assuntos: `Filosofia`
+  - [Podcast](http://filosofiapop.com.br/category/podcast/) 
 
 ## Educação e Pedagogia:
 
