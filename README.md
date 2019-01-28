@@ -13,7 +13,7 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 
 ## Tecnologia:
 - [BlueSoft Podcast](https://labs.bluesoft.com.br/tag/podcast/)
-- [Hack'n'Cast](http://hackncast.org/) _Assuntos: `Segurança Digital` 
+- [Hack'n'Cast](http://hackncast.org/) _Assuntos: `Segurança Digital`_ 
 
 ## Ciências Exatas:
 
