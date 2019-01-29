@@ -9,6 +9,8 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
   - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
 - Dragões de Garagem
   - [Podcast](http://dragoesdegaragem.com/podcast/)
+- SciCast
+  - [Podcast](http://www.deviante.com.br/podcasts/scicast/)
 
 ## Pensamento Científico:
 - Papo Cético 
@@ -67,7 +69,10 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Filosofia Pop
   - _Assuntos: `Filosofia`_
   - [Podcast](http://filosofiapop.com.br/category/podcast/) 
-
+- Frontcast
+  - _Assuntos: `História Militar, defesa e Geopolítica`_
+  - [Podcast](http://www.frontcast.com.br/)
+  
 ## Educação e Pedagogia:
 
 
