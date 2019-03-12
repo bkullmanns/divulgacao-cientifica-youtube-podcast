@@ -55,6 +55,12 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Farmacast
   - _Assuntos: `Farmácia`_
   - [Podcast](http://farmacast.com.br/category/podcast/) 
+- Biomedcast
+  - _Assuntos: `Biomedicina`_
+  - [Podcast](https://biomedcast.com/)
+- Eco-Evolução
+  - _Assuntos: `Ecologia`_
+  - [Podcast](https://mundopodcast.com.br/teiacast/ciencias/eco-evolucao-ciencia-e-educacao/)
 
 ## Ciências Humanas:
 
@@ -70,11 +76,12 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 
 ## Educação e Pedagogia:
 
-
-
-
-
-
-
-
+- Papo de Educador
+  - _Asuntos: Ensino formal e não formal_
+  - [Podcast](https://papodeeducador.com.br/category/podcast/)
+  - [YouTube](https://www.youtube.com/channel/UCUBYILCgOICWKHoTUASVKbg)
+- Podcast Nota 6
+  - _Assuntos: Ensino não formal_
+  - [Podcast](https://tunein.com/podcasts/Education-Podcasts/Nota-6-p1187258/)
+ 
 
