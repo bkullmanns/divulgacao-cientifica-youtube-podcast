@@ -17,9 +17,24 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 ## Tecnologia:
 - BlueSoft Podcast
   - [Podcast](https://labs.bluesoft.com.br/tag/podcast/)
+- DNE - Dev na Estrada
+  - _Assuntos: `Desenvolvimento de Software em Geral`_
+  - [Podcast](https://devnaestrada.com.br/)
 - Hack'n'Cast 
   - _Assuntos: `Segurança Digital`_
-  - [Podcast](http://hackncast.org/) 
+  - [Podcast](http://hackncast.org/)
+- Hipsters Ponto Tech
+  - _Assuntos: `Programação, design, ux, gadgets e startups`_
+  - [Podcast](https://hipsters.tech/)
+- Lambda3
+    - _Assuntos: `Desenvolvimento de software`_
+    - [Podcast](https://www.lambda3.com.br/lambda3-podcast)
+- Loop Matinal
+    - _Assuntos: `Notícias diárias sobre tecnologia`_
+    - [Podcast](http://www.loopmatinal.com/)
+- PodProgramar
+    - _Assuntos: `Assuntos variados sobre tecnologia`_
+    - [Podcast](https://mundopodcast.com.br/podprogramar/)
 
 ## Ciências Exatas:
 - Volt Ampere Podcast
