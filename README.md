@@ -9,6 +9,8 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
   - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
 - Dragões de Garagem
   - [Podcast](http://dragoesdegaragem.com/podcast/)
+- Ciências USP
+  -[Podcast](https://jornal.usp.br/tag/podcast/)
 
 ## Pensamento Científico:
 - Papo Cético 
@@ -20,6 +22,8 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Hack'n'Cast 
   - _Assuntos: `Segurança Digital`_
   - [Podcast](http://hackncast.org/) 
+- Hipersters Ponto Tech
+  - [Podcast](https://hipsters.tech/)
 
 ## Ciências Exatas:
 - Volt Ampere Podcast
