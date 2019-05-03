@@ -10,7 +10,7 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Dragões de Garagem
   - [Podcast](http://dragoesdegaragem.com/podcast/)
 - Ciências USP
-  -[Podcast](https://jornal.usp.br/tag/podcast/)
+  - [Podcast](https://jornal.usp.br/tag/podcast/)
 
 ## Pensamento Científico:
 - Papo Cético 
