@@ -22,6 +22,41 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Hack'n'Cast 
   - _Assuntos: `Segurança Digital`_
   - [Podcast](http://hackncast.org/) 
+- Seginfocast
+  - _Assuntos: `Segurança da Informação`_
+  - [Podcast](https://seginfo.com.br/seginfocast/)
+- Segurança Legal
+  - _Assuntos: `Segurança da Informação`_
+  - [Podcast](https://www.segurancalegal.com/)
+- SecurityCast
+  - _Assuntos: `Segurança da Informação`_
+  - [Podcast](http://securitycast.com.br/)
+  - [YouTube](https://www.youtube.com/securitycast)
+- PodProgramar
+  - _Assuntos: `Programação`_
+  - [Podcast](https://podprogramar.com.br/)
+- Loop Matinal
+  - _Assuntos: `Tecnologia`_
+  - [Podcast](http://www.loopmatinal.com/)
+- Lambda3
+  - _Assuntos: `Tecnologia e Assuntos Diversos`_
+  - [Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+- DNE - devnaestrada
+  - _Assuntos: `Programação`_
+  - [Podcast](https://devnaestrada.com.br/)
+- Hipsters ponto tech
+  - _Assuntos: `Desenvolvimento`_
+  - [Podcast](https://hipsters.tech/)
+- Lovelace
+  - _Assuntos: `Tecnologia`_
+  - [Podcast](https://pca.st/VOw2)
+- PodTag
+  - _Assuntos: `Tecnologia`_
+  - [Podcast](https://podtag.com.br/)
+- Pizza de Dados
+  - _Assuntos: `Data Science`_
+  - [Podcast](https://pizzadedados.com/)
+
 
 ## Ciências Exatas:
 - Volt Ampere Podcast
@@ -69,17 +104,5 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Filosofia Pop
   - _Assuntos: `Filosofia`_
   - [Podcast](http://filosofiapop.com.br/category/podcast/) 
-- Frontcast
-  - _Assuntos: `História Militar, defesa e Geopolítica`_
-  - [Podcast](http://www.frontcast.com.br/)
-  
-## Educação e Pedagogia:
-
-
-
-
-
-
-
 
 
