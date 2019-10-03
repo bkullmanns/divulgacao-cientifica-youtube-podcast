@@ -56,6 +56,9 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Pizza de Dados
   - _Assuntos: `Data Science`_
   - [Podcast](https://pizzadedados.com/)
+- Peixe Babel
+  - _Assuntos: `Robótica e programação`_
+  - [Youtube](https://www.youtube.com/user/CanalPeixeBabel)
 
 
 ## Ciências Exatas:
@@ -65,6 +68,28 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - FísicaCast 
     -  _Assuntos: `Física`_
     - [Podcast](https://anchor.fm/fisicast)
+- Sinapse 
+    -  _Assuntos: `Física`_
+    - [Podcast](https://anchor.fm/sinapse)
+- Ciência Todo Dia 
+    -  _Assuntos: `Física`_
+    - [Youtube](https://www.youtube.com/CienciaTodoDia)
+- Canal do Schwarza
+    -  _Assuntos: `Astronomia`_
+    - [Youtube](https://www.youtube.com/canaldoschwarza)
+- SpaceToday
+    -  _Assuntos: `Astronomia`_
+    - [Youtube](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A)
+- minutephysics
+    -  _Assuntos: `Física`_
+    - [Youtube](https://www.youtube.com/user/minutephysics)
+- A Matemaníaca por Julia Jaccoud
+    -  _Assuntos: `Matemática`_
+    - [Youtube](https://www.youtube.com/channel/UCz4Zuqtj9fokXH68gZJmCdA)
+- Primata Falante
+    -  _Assuntos: `Física`_
+    - [Youtube](https://www.youtube.com/channel/UC876uazcW8p7wdl3JdbVIaA)
+
 
 ## Ciências da Saúde e Medicina:
 - Medicina em Debate 
@@ -92,6 +117,13 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Farmacast
   - _Assuntos: `Farmácia`_
   - [Podcast](http://farmacast.com.br/category/podcast/) 
+- Canal Besouro Solto
+  - _Assuntos: `Biologia`_
+  - [Youtube](https://www.youtube.com/user/besourosolto) 
+- Canal do Pirulla
+  - _Assuntos: `Biologia`_
+  - [Youtube](https://www.youtube.com/channel/UCdGpd0gNn38UKwoncZd9rmA) 
+
 
 ## Ciências Humanas:
 
@@ -103,6 +135,9 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
   - [Podcast](http://temacast.com.br/wp/podcasts/) 
 - Filosofia Pop
   - _Assuntos: `Filosofia`_
-  - [Podcast](http://filosofiapop.com.br/category/podcast/) 
+  - [Podcast](http://filosofiapop.com.br/category/podcast/)
+- História no Cast
+  - _Assuntos: `História`_
+  - [Podcast](https://www.megafono.host/podcast/historia-no-cast) 
 
 
