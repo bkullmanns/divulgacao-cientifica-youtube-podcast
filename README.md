@@ -56,8 +56,9 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Pizza de Dados
   - _Assuntos: `Data Science`_
   - [Podcast](https://pizzadedados.com/)
-
-
+ -Conheça a tecnologia que vai substituir o QLED e o OLED
+- _Assuntos: `Tecnologia`_
+  - [Podcast](https:youtu.be/SEjHJwve1hI)
 ## Ciências Exatas:
 - Volt Ampere Podcast
     - _Assuntos: `Física`_
