@@ -1,9 +1,9 @@
-# divulgacao-cientifica-youtube-podcast
-Canais de Youtube e Podcasts BR sobre ciência.
+# Divulgação de Canais do YouTube e Podcasts Brasileiros Sobre Ciência
+# :loudspeaker: :headphones: :arrow_forward:  :microscope: :brazil:
 
-Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alterações de organização, etc.
+### _Sinta-se à vontade para adicionar mais canais via pull request e sugerir alterações de organização, etc._
 
-## Diversos assuntos:
+## Diversos assuntos
 
 - Naruhodo
   - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
