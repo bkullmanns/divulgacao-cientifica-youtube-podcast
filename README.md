@@ -3,13 +3,13 @@
 ### _Sinta-se à vontade para adicionar mais canais via pull request e sugerir alterações de organização, etc_
 
 - [Diversos Assuntos](#diversos-assuntos)
-- [Pensamento Científico]()
-- [Tecnologia]()
-- [Ciências Exatas]()
-- [Ciências da Sáude e Medicina]()
-- [Direito e Política]()
-- [Ciências Biológicas]()
-- [Ciências Humanas]()
+- [Pensamento Científico](#pensamento-cientifico)
+- [Tecnologia](#tecnologia)
+- [Ciências Exatas](#ciencias-exatas)
+- [Ciências da Sáude e Medicina](#saude-e-medicina)
+- [Direito e Política](#direito-e-politica)
+- [Ciências Biológicas](#biologicas)
+- [Ciências Humanas](#humanas)
 
 ### [Diversos Assuntos](#diversos-assuntos)
 - Naruhodo
@@ -19,11 +19,11 @@
 - SciCast
   - [Podcast](http://www.deviante.com.br/podcasts/scicast/)
 
-### Pensamento Científico
+### [Pensamento Científico](#pensamento-cientifico)
 - Papo Cético 
   - [Podcast](https://www.mitografias.com.br/category/podcast/papo-cetico/)
 
-### Tecnologia
+### [Tecnologia](#tecnologia)
 - BlueSoft Podcast
   - [Podcast](https://labs.bluesoft.com.br/tag/podcast/)
 - Hack'n'Cast 
@@ -65,7 +65,7 @@
   - [Podcast](https://pizzadedados.com/)
 
 
-### Ciências Exatas
+### [Ciências Exatas](#ciencias-exatas)
 - Volt Ampere Podcast
     - _Assuntos: `Física`_
     - [Podcast](http://hexatronic.com.br/category/podcast/) 
@@ -73,7 +73,7 @@
     -  _Assuntos: `Física`_
     - [Podcast](https://anchor.fm/fisicast)
 
-### Ciências da Saúde e Medicina
+### [Ciências da Saúde e Medicina](#saude-e-medicina)
 - Medicina em Debate 
   - [Podcast](http://medicinaemdebate.com.br/)
 - Fisio na Pauta 
@@ -86,12 +86,12 @@
    - _Assuntos: `Nutrição`_
    - [Podcast](https://www.senhortanquinho.com/category/podcast/)
 
-### Direito e Política
+### [Direito e Política](#direito-e-politica)
 - Viracasacas
   - [Podcast](https://viracasacas.com/)
 
 
-### Ciências Biológicas 
+### [Ciências Biológicas](#biologicas)
 
 - O Nicho
   - _Assuntos: `Biologia`_
@@ -100,7 +100,7 @@
   - _Assuntos: `Farmácia`_
   - [Podcast](http://farmacast.com.br/category/podcast/) 
 
-### Ciências Humanas
+### [Ciências Humanas](#humanas)
 
 - Passadorama
   - _Assuntos: `História`_
@@ -111,5 +111,3 @@
 - Filosofia Pop
   - _Assuntos: `Filosofia`_
   - [Podcast](http://filosofiapop.com.br/category/podcast/) 
-
-
