@@ -2,7 +2,7 @@
 # :loudspeaker: :headphones: :arrow_forward:  :microscope: :brazil:
 ### _Sinta-se à vontade para adicionar mais canais via pull request e sugerir alterações de organização, etc_
 
- [Diversos Assuntos](#diversos-assuntos)
+# Diversos Assuntos {#diversos-assuntos}
 - [Pensamento Científico](#pensamento-cientifico)
 - [Tecnologia](#tecnologia)
 - [Ciências Exatas](#ciencias-exatas)
@@ -11,7 +11,7 @@
 - [Ciências Biológicas](#biologicas)
 - [Ciências Humanas](#humanas)
 
-# Diversos Assuntos {#diversos-assuntos}
+[Diversos Assuntos](#diversos-assuntos)
 - Naruhodo
   - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
 - Dragões de Garagem
