@@ -11,7 +11,7 @@
 - [Ciências Biológicas](#biologicas)
 - [Ciências Humanas](#humanas)
 
-### [Diversos Assuntos](#diversos-assuntos)
+# Diversos Assuntos {#diversos-assuntos}
 - Naruhodo
   - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
 - Dragões de Garagem
@@ -19,11 +19,11 @@
 - SciCast
   - [Podcast](http://www.deviante.com.br/podcasts/scicast/)
 
-### [Pensamento Científico](#pensamento-cientifico)
+## [Pensamento Científico](##pensamento-cientifico)
 - Papo Cético 
   - [Podcast](https://www.mitografias.com.br/category/podcast/papo-cetico/)
 
-### [Tecnologia](#tecnologia)
+## [Tecnologia](##tecnologia)
 - BlueSoft Podcast
   - [Podcast](https://labs.bluesoft.com.br/tag/podcast/)
 - Hack'n'Cast 
@@ -47,6 +47,7 @@
   - [Podcast](http://www.loopmatinal.com/)
 - Lambda3
   - _Assuntos: `Tecnologia e Assuntos Diversos`_
+  
   - [Podcast](https://www.lambda3.com.br/lambda3-podcast/)
 - DNE - devnaestrada
   - _Assuntos: `Programação`_
@@ -65,7 +66,7 @@
   - [Podcast](https://pizzadedados.com/)
 
 
-### [Ciências Exatas](#ciencias-exatas)
+## [Ciências Exatas](##ciencias-exatas)
 - Volt Ampere Podcast
     - _Assuntos: `Física`_
     - [Podcast](http://hexatronic.com.br/category/podcast/) 
@@ -73,7 +74,7 @@
     -  _Assuntos: `Física`_
     - [Podcast](https://anchor.fm/fisicast)
 
-### [Ciências da Saúde e Medicina](#saude-e-medicina)
+## [Ciências da Saúde e Medicina](##saude-e-medicina)
 - Medicina em Debate 
   - [Podcast](http://medicinaemdebate.com.br/)
 - Fisio na Pauta 
@@ -86,12 +87,11 @@
    - _Assuntos: `Nutrição`_
    - [Podcast](https://www.senhortanquinho.com/category/podcast/)
 
-### [Direito e Política](#direito-e-politica)
+## [Direito e Política](##direito-e-politica)
 - Viracasacas
   - [Podcast](https://viracasacas.com/)
 
-
-### [Ciências Biológicas](#biologicas)
+## [Ciências Biológicas](##biologicas)
 
 - O Nicho
   - _Assuntos: `Biologia`_
@@ -100,7 +100,7 @@
   - _Assuntos: `Farmácia`_
   - [Podcast](http://farmacast.com.br/category/podcast/) 
 
-### [Ciências Humanas](#humanas)
+## [Ciências Humanas](##humanas)
 
 - Passadorama
   - _Assuntos: `História`_
@@ -110,4 +110,4 @@
   - [Podcast](http://temacast.com.br/wp/podcasts/) 
 - Filosofia Pop
   - _Assuntos: `Filosofia`_
-  - [Podcast](http://filosofiapop.com.br/category/podcast/) 
+  - [Podcast](http://filosofiapop.com.br/category/podcast/)
