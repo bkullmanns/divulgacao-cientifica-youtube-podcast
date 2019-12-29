@@ -2,7 +2,8 @@
 # :loudspeaker: :headphones: :arrow_forward:  :microscope: :brazil:
 ### _Sinta-se à vontade para adicionar mais canais via pull request e sugerir alterações de organização, etc_
 
-# Diversos Assuntos {#diversos-assuntos}
+## Sumário
+- [Diversos Assuntos](#diversos-assuntos)
 - [Pensamento Científico](#pensamento-cientifico)
 - [Tecnologia](#tecnologia)
 - [Ciências Exatas](#ciencias-exatas)
@@ -11,7 +12,7 @@
 - [Ciências Biológicas](#biologicas)
 - [Ciências Humanas](#humanas)
 
-[Diversos Assuntos](#diversos-assuntos)
+## Diversos Assuntos
 - Naruhodo
   - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
 - Dragões de Garagem
@@ -19,11 +20,11 @@
 - SciCast
   - [Podcast](http://www.deviante.com.br/podcasts/scicast/)
 
-## [Pensamento Científico](##pensamento-cientifico)
+## Pensamento Científico
 - Papo Cético 
   - [Podcast](https://www.mitografias.com.br/category/podcast/papo-cetico/)
 
-## [Tecnologia](##tecnologia)
+## Tecnologia
 - BlueSoft Podcast
   - [Podcast](https://labs.bluesoft.com.br/tag/podcast/)
 - Hack'n'Cast 
@@ -66,7 +67,7 @@
   - [Podcast](https://pizzadedados.com/)
 
 
-## [Ciências Exatas](##ciencias-exatas)
+## Ciências Exatas
 - Volt Ampere Podcast
     - _Assuntos: `Física`_
     - [Podcast](http://hexatronic.com.br/category/podcast/) 
@@ -74,7 +75,7 @@
     -  _Assuntos: `Física`_
     - [Podcast](https://anchor.fm/fisicast)
 
-## [Ciências da Saúde e Medicina](##saude-e-medicina)
+## Ciências da Saúde e Medicina
 - Medicina em Debate 
   - [Podcast](http://medicinaemdebate.com.br/)
 - Fisio na Pauta 
@@ -87,11 +88,11 @@
    - _Assuntos: `Nutrição`_
    - [Podcast](https://www.senhortanquinho.com/category/podcast/)
 
-## [Direito e Política](##direito-e-politica)
+## Direito e Política
 - Viracasacas
   - [Podcast](https://viracasacas.com/)
 
-## [Ciências Biológicas](##biologicas)
+## Ciências Biológicas
 
 - O Nicho
   - _Assuntos: `Biologia`_
@@ -100,7 +101,7 @@
   - _Assuntos: `Farmácia`_
   - [Podcast](http://farmacast.com.br/category/podcast/) 
 
-## [Ciências Humanas](##humanas)
+## Ciências Humanas
 
 - Passadorama
   - _Assuntos: `História`_
