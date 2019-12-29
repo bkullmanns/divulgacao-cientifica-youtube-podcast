@@ -1,10 +1,18 @@
-# divulgacao-cientifica-youtube-podcast
-Canais de Youtube e Podcasts BR sobre ciência.
+# Divulgação de Canais do YouTube e Podcasts Brasileiros Sobre Ciência
+# :loudspeaker: :arrow_forward: :headphones: :brazil: :microscope:
+### _Sinta-se à vontade para adicionar mais canais via pull request e sugerir alterações de organização, etc_
 
-Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alterações de organização, etc.
+## Sumário
+- [Diversos Assuntos](#diversos-assuntos)
+- [Pensamento Científico](#pensamento-cientifico)
+- [Tecnologia](#tecnologia)
+- [Ciências Exatas](#ciencias-exatas)
+- [Ciências da Sáude e Medicina](#ciencias-da-saude-e-medicina)
+- [Direito e Política](#direito-e-politica)
+- [Ciências Biológicas](#ciencias-biologicas)
+- [Ciências Humanas](#ciencias-humanas)
 
-## Diversos assuntos:
-
+## Diversos Assuntos
 - Naruhodo
   - [Podcast](https://www.b9.com.br/podcasts/naruhodo/)
 - Dragões de Garagem
@@ -12,11 +20,11 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - SciCast
   - [Podcast](http://www.deviante.com.br/podcasts/scicast/)
 
-## Pensamento Científico:
+## Pensamento Científico
 - Papo Cético 
   - [Podcast](https://www.mitografias.com.br/category/podcast/papo-cetico/)
 
-## Tecnologia:
+## Tecnologia
 - BlueSoft Podcast
   - [Podcast](https://labs.bluesoft.com.br/tag/podcast/)
 - Hack'n'Cast 
@@ -57,8 +65,7 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
   - _Assuntos: `Data Science`_
   - [Podcast](https://pizzadedados.com/)
 
-
-## Ciências Exatas:
+## Ciências Exatas
 - Volt Ampere Podcast
     - _Assuntos: `Física`_
     - [Podcast](http://hexatronic.com.br/category/podcast/) 
@@ -66,7 +73,7 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
     -  _Assuntos: `Física`_
     - [Podcast](https://anchor.fm/fisicast)
 
-## Ciências da Saúde e Medicina:
+## Ciências da Saúde e Medicina
 - Medicina em Debate 
   - [Podcast](http://medicinaemdebate.com.br/)
 - Fisio na Pauta 
@@ -83,9 +90,7 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Viracasacas
   - [Podcast](https://viracasacas.com/)
 
-
-## Ciências Biológicas: 
-
+## Ciências Biológicas
 - O Nicho
   - _Assuntos: `Biologia`_
   - [Podcast](https://onichopodcast.wordpress.com/) 
@@ -93,8 +98,7 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
   - _Assuntos: `Farmácia`_
   - [Podcast](http://farmacast.com.br/category/podcast/) 
 
-## Ciências Humanas:
-
+## Ciências Humanas
 - Passadorama
   - _Assuntos: `História`_
   - [Podcast](https://passadorama.com/) 
@@ -103,6 +107,4 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
   - [Podcast](http://temacast.com.br/wp/podcasts/) 
 - Filosofia Pop
   - _Assuntos: `Filosofia`_
-  - [Podcast](http://filosofiapop.com.br/category/podcast/) 
-
-
+  - [Podcast](http://filosofiapop.com.br/category/podcast/)
