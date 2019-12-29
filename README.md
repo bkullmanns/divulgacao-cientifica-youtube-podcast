@@ -1,5 +1,5 @@
 # Divulgação de Canais do YouTube e Podcasts Brasileiros Sobre Ciência
-# :loudspeaker: :headphones: :arrow_forward:  :microscope: :brazil:
+# :loudspeaker: :arrow_forward: :headphones: :brazil: :microscope:
 ### _Sinta-se à vontade para adicionar mais canais via pull request e sugerir alterações de organização, etc_
 
 ## Sumário
@@ -48,7 +48,6 @@
   - [Podcast](http://www.loopmatinal.com/)
 - Lambda3
   - _Assuntos: `Tecnologia e Assuntos Diversos`_
-  
   - [Podcast](https://www.lambda3.com.br/lambda3-podcast/)
 - DNE - devnaestrada
   - _Assuntos: `Programação`_
@@ -65,7 +64,6 @@
 - Pizza de Dados
   - _Assuntos: `Data Science`_
   - [Podcast](https://pizzadedados.com/)
-
 
 ## Ciências Exatas
 - Volt Ampere Podcast
@@ -93,7 +91,6 @@
   - [Podcast](https://viracasacas.com/)
 
 ## Ciências Biológicas
-
 - O Nicho
   - _Assuntos: `Biologia`_
   - [Podcast](https://onichopodcast.wordpress.com/) 
@@ -102,7 +99,6 @@
   - [Podcast](http://farmacast.com.br/category/podcast/) 
 
 ## Ciências Humanas
-
 - Passadorama
   - _Assuntos: `História`_
   - [Podcast](https://passadorama.com/) 
