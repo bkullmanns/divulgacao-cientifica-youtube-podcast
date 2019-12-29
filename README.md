@@ -7,10 +7,10 @@
 - [Pensamento Científico](#pensamento-cientifico)
 - [Tecnologia](#tecnologia)
 - [Ciências Exatas](#ciencias-exatas)
-- [Ciências da Sáude e Medicina](#saude-e-medicina)
+- [Ciências da Sáude e Medicina](#ciencias-da-saude-e-medicina)
 - [Direito e Política](#direito-e-politica)
-- [Ciências Biológicas](#biologicas)
-- [Ciências Humanas](#humanas)
+- [Ciências Biológicas](#ciencias-biologicas)
+- [Ciências Humanas](#ciencias-humanas)
 
 ## Diversos Assuntos
 - Naruhodo
