@@ -56,7 +56,9 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - Pizza de Dados
   - _Assuntos: `Data Science`_
   - [Podcast](https://pizzadedados.com/)
-
+- DioCast
+  - _Assuntos: `Cultura Open Source e Tecnologia`_
+  - [Podcast](https://www.diolinux.com.br/p/diocast-o-podcast-do-diolinux.html)
 
 ## Ciências Exatas:
 - Volt Ampere Podcast
@@ -82,7 +84,9 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 ## Direito e Política
 - Viracasacas
   - [Podcast](https://viracasacas.com/)
-
+- Funcionário da Semana (Veja)
+  - _Assuntos: `Política`_
+  - [Podcast](https://veja.abril.com.br/noticias-sobre/podcast-funcionario-da-semana/)
 
 ## Ciências Biológicas: 
 
