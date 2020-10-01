@@ -59,6 +59,9 @@ Sinta-se à vontade para adicionar mais canais via pull request! E sugerir alter
 - DioCast
   - _Assuntos: `Cultura Open Source e Tecnologia`_
   - [Podcast](https://www.diolinux.com.br/p/diocast-o-podcast-do-diolinux.html)
+- Akitando
+  - _Assuntos: `Tecnologia`_
+  - [Podcast](https://www.akitaonrails.com/)
 
 ## Ciências Exatas:
 - Volt Ampere Podcast
